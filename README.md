@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I’m Fernanda Miranda
-📍 I'm from Espírito Santo, Brazil
-🌱 I’m currently learning Web Development on Hiring Coders!
+- 👋 Hi, I’m Fernanda Miranda
+- 📍 I'm from Espírito Santo, Brazil
+- 🌱 I’m currently learning Web Development on Hiring Coders!
